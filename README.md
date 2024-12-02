@@ -1,4 +1,5 @@
 # Hi 👋, I'm Tajrian Afroz
+<img src="./banner2.jpg">
 #### Frotnend web developer
 I'm a dedicated Frontend Web Developer with a passion for building seamless, responsive, and visually captivating websites. Skilled in HTML, CSS and JavaScript and  I am continuously enhancing my skills with frameworks like React. I enjoy turning creative ideas into functional and engaging web solutions. 
 
